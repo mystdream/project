@@ -6,3 +6,4 @@ pickleshare
 pandas
 scikit-learn
 xgboost
+ipython
