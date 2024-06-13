@@ -5,3 +5,4 @@ numpy
 pickleshare
 pandas
 scikit-learn
+xgboost
